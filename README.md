@@ -13,3 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+![GitHub Logo](/public/images/1.png)
