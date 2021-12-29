@@ -9,6 +9,8 @@
 Try running some of the following tasks:
 
 ```shell
+Contract on EtherScan
+https://rinkeby.etherscan.io/address/0x04FFF070e067410891539caBa9a14d36B4BFf1AB
 Connect your wallet to Rinkeby test network to test this 
 ```
 ![GitHub Logo](/public/images/1.png) ![GitHub Logo](/public/images/2.png) ![GitHub Logo](/public/images/3.png)
